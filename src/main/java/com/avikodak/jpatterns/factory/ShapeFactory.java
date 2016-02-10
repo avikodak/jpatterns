@@ -2,6 +2,7 @@ package com.avikodak.jpatterns.factory;
 
 
 
+import com.avikodak.jpatterns.constants.ShapeConstants;
 import com.avikodak.jpatterns.factory.impl.Circle;
 import com.avikodak.jpatterns.factory.impl.Rectangle;
 import com.avikodak.jpatterns.factory.impl.Square;

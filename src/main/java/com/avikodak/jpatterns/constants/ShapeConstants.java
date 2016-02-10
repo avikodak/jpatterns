@@ -1,4 +1,4 @@
-package com.avikodak.jpatterns.factory;
+package com.avikodak.jpatterns.constants;
 
 public enum ShapeConstants {
 	RECTANGLE,SQUARE,CIRCLE;
